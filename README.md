@@ -48,8 +48,9 @@ const techStack = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="/api/placeholder/495/195" alt="GitHub Stats" />
-  <img src="/api/placeholder/495/195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-krishna-tech&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-krishna-tech&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -58,9 +59,9 @@ I'm always interested in collaborating on innovative projects and connecting wit
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-krishna-b731601b1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/procoder03092)
+
 
 </div>
 
