@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hari Krishna 
 
 <div align="center">
-  <img src="/api/placeholder/800/200" alt="banner" />
+  <img src="github-banner.svg" alt="banner" />
 </div>
 
 ## 🚀 About Me
